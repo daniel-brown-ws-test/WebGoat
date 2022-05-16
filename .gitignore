@@ -1,7 +1,7 @@
 /nb-configuration.xml
 /nbactions.xml
 /target/
-/.classpath
+/.classpath 
 /.project
 /.settings/.jsdtscope
 /.settings/org.eclipse.jdt.core.prefs
